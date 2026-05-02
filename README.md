@@ -1,6 +1,6 @@
-# Dr. Omar Haroun Dental Clinic
+# Basmaabdelmegd Wedding Planner
 ## Project Tagline
-### Healthy teeth... a better life
+### We turn your moments into unforgettable memories
 
 ##  Team Members
 - **Basma Magdy**  
@@ -18,22 +18,25 @@
 ---
 
 ##  Project Overview
-The project focuses on establishing a modern dental clinic that delivers high-quality dental services with exceptional patient care. The clinic aims to provide a comfortable, safe environment while utilizing the latest technologies in dental treatment and cosmetic dentistry, with a strong emphasis on patient comfort and a distinctive treatment experience.
-The clinic will be presented through an attractive and professional visual identity, a user-friendly website, and targeted social media marketing campaigns designed to attract patients and build trust.
+Basmaabdelmegd Wedding Planner is a digital wedding planning and management platform designed to help couples organize their special day smoothly and efficiently.
+The project focuses on simplifying the wedding planning process by providing tools and services that assist with event organization, scheduling, vendor coordination, budgeting, and guest management.
+
+The platform aims to deliver a modern and user-friendly experience for clients while also supporting digital marketing strategies to increase online visibility and customer engagement.
 
 ---
 
 ## Project Objectives
-- Increase awareness of the clinic and the services offered
-- Attract a large number of patients through social media and advertising
-- Build patient trust through high-quality service and transparency  
-- Increase the number of appointments and regular follow-up visits  
+- Increase awareness of the page  and the services offered
+- Attract a large number of followers through social media and advertising
+- Build client trust through high-quality service and transparency  
+- Increase the number of appointments and regular visits  
 
 ---
 
 ##  Project Scope
-- Delivery of comprehensive dental services (treatment, cosmetics, orthodontics, implants, whitening)  
-- Creation of a professional and reassuring visual identity that reflects trust and cleanliness
+- Simplify wedding planning and event organization
+- Delivery of comprehensive services 
+- Creation of a professional and reassuring visual identity that reflects trust
 - Establishment of a strong presence on social media platforms for marketing and education  
 - Development of a website for appointment booking and service showcase  
 - Offering promotional packages and free initial consultations to build a patient base
@@ -42,13 +45,13 @@ The clinic will be presented through an attractive and professional visual ident
 
  ## Final Deliverables
 
- A complete, ready-to-operate dental clinic package including:
+ A complete, ready-to-operate wedding planning package including:
 
 -	Distinctive visual identity (name, logo, color palette, visual style guide)
 
--	Professional interior and exterior design for the clinic
+-	Professional interior and exterior design for the page
 
--	High-quality professional photography of the clinic and services
+-	High-quality professional photography of the activities and services
 
 -	Short promotional videos
 
@@ -67,7 +70,7 @@ The clinic will be presented through an attractive and professional visual ident
 ###  Week 1 — (Research, Planning & Visual Identity)
 - Market and competitor analysis in the target area.
 - Identification of the target audience.
-- Final selection of the clinic name and visual identity.
+- Final selection of the project name and visual identity.
 -	Definition of brand personality (professional – comforting – trustworthy).
 
 
