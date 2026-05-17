@@ -95,4 +95,4 @@ The platform aims to deliver a modern and user-friendly experience for clients w
 - Activation of paid advertising campaigns.
 - Monitoring of patient feedback and reviews.
 - Optimization of the plan based on initial results.
-https://drive.google.com/file/d/1LKRaCQCfje_lGDdWn-9WOqd3j-jHsHyb/view?usp=sharing
+- https://drive.google.com/file/d/1LKRaCQCfje_lGDdWn-9WOqd3j-jHsHyb/view?usp=sharing
